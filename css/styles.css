@@ -286,11 +286,11 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #F4F4FD;
-    margin-bottom: 16px;
   }
   .footer-text{
     color: #E7E9FC;
     max-width: 264px;
+    margin-top: 16px;
   }
 
 /*--------------PROGEKTS---------------*/
